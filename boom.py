@@ -1,18 +1,14 @@
-import time
-import socket
+
 
 import os
 import sys
 import time
 import random
 import urllib.request
-from phonenumbers import carrier 
-import phonenumbers
-
-from phonenumbers import timezone
 
 
-from phonenumbers import geocoder
+
+
 
 
 hostname = socket.gethostname()
