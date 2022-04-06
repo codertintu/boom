@@ -60,7 +60,7 @@ dev = ANSI.background(
 print(dev)
 
 print('\u001b[33;1m-------------------------------------------------------------------\u001b[0m'), time.sleep(.3)
-print('\u001b[32mOTP SPAM API: Private                 YOUR IP:', IPAddr, '\u001b[0m'), time.sleep(.3)
+print('\u001b[32mOTP SPAM API: Private                                               \u001b[0m'), time.sleep(.3)
 print('\u001b[33;1mOwner(s): @fiyaainjectaa&jesu               Last Update: 8.04.2022\u001b[0m'), time.sleep(.3)
 print('\u001b[31;1mMaintainer(s): @fiyaa      Telegram: fiyaainjectaa\u001b[0m'), time.sleep(.3)
 
