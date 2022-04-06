@@ -7,13 +7,6 @@ import random
 import urllib.request
 
 
-
-
-
-
-hostname = socket.gethostname()
-IPAddr = socket.gethostbyname(hostname)
-
 # Color and Codes
 COLORS = { \
     "black": "\u001b[30;1m",
