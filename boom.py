@@ -91,7 +91,7 @@ print('\u001b[32m[1]\u001b[0m SMS BOOM    - Send unlimited otp message to victim
 print('\u001b[32m[2]\u001b[0m DEVELOPERS DETAILS AND OTHER SOCIAL MEDIAS AND GMAIL'),        time.sleep(.1)
 print('\u001b[32m[3]\u001b[0m whatsApp number'),                                                       time.sleep(.1)
 print('\u001b[32m[4]\u001b[0m whatsApp otp boom Coming Soon🔥'),                                                   time.sleep(.1)                                     
-print('\u001b[33;1m------------------------------------------------------------------------------------------------------------------------------------------\u001b[33;1m
+print('\u001b[33;1m------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
 				
 				banner()
 choice = input('      ᴇɴᴛᴇʀ ᴀɴ ᴏᴘᴛɪᴏɴ : ')
