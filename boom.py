@@ -6,11 +6,6 @@ import sys
 import time
 import random
 import urllib.request
-
-import py
-import requests
-import sys
-
 from phonenumbers import carrier 
 import phonenumbers
 
