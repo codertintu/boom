@@ -20,7 +20,13 @@ git clone https://github.com/injectaa/boom && cd boom && sudo python3 boom.py
 
 Quick installation for Termux Android (ROOT&NONROOT)
 ````bash
-apt-get install git python3 python -y && python3 -m pip install Pillow && git clone https://github.com/injectaa/boom && cd boom && bash requirment.sh && python3 boom.py
+     *apt update &upgrade
+     *pkg install git
+     *pkg install python
+     *pkg install python3
+     *git clone https://github.com/injectaa/boom
+     *cd boom
+     *python3 boom.py
 ````
 #### boom for Termux by [@fiyaa](https://github.com/R1punk/SARA)
 Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
