@@ -61,6 +61,6 @@ Tested on Linux ```Android 10```
 
  </p>
 <p align="center">
-    <a href="www.fiyaainjecta@protonmail.com"><img title="FIYAA" src="https://img.shields.io/badge/FIYAA-Contact me-FIYAA/SMILE%20MON?color=Blue&style=for-the-badge&logo=gmail"></a>
+    <a href="mail@fiyaainjecta@protonmail.com"><img title="FIYAA" src="https://img.shields.io/badge/FIYAA-Contact me-FIYAA/SMILE%20MON?color=Blue&style=for-the-badge&logo=gmail"></a>
 
  </p>
