@@ -3,15 +3,15 @@ import sys
 
 string = """ 
 
-HI I AM FIYA FARHA THE CODER GIRL FROM THE RURAL VILLAGE OF KANNUR KERALA
-𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈:-𝙞𝙣𝙟𝙚𝙘𝙩𝙖_𝙖
-𝙂𝙄𝙏𝙃𝙐𝘽:-𝙞𝙣𝙟𝙚𝙘𝙩𝙖𝙖
-𝙉𝙊𝙏𝙀!!
- 𝙐𝙎𝙀 𝙏𝙃𝙄𝙎 𝙏𝙊𝙊𝙇 𝙊𝙉𝙇𝙔 𝙁𝙊𝙍 𝙋𝙍𝘼𝙉𝙆𝙄𝙉𝙂 𝙉𝙊𝙏 𝙁𝙊𝙍 𝙍𝙀𝙑𝙀𝙉𝙂𝙄𝙉𝙂 
- 𝘼𝙏 𝙇𝘼𝙎𝙏 𝙋𝙇𝙀𝘼𝙎𝙀 𝙂𝙄𝙑𝙀 𝘾𝙍𝙀𝘿𝙄𝙏 𝙒𝙃𝙀𝙉 𝙔𝙊𝙐 𝘾𝙊𝙋𝙔 𝙈𝙔 𝘾𝙊𝘿𝙀 𝙁𝘼𝙄𝙏𝙃𝙁𝙐𝙇𝙇𝙔 𝙁𝙄𝙔𝘼𝘼
+   HI I AM FIYA FARHA THE MALLU CODER GIRL FROM THE RURAL VILLAGE OF KANNUR KERALA INDIA 
+  INSTAGRAM:-injecta_a
+   GITHUB:-injectaa
+   NOTE THE POINT!!
+     USE THIS PROJECT ONLY FOR EDUCATION PURPOSE DON'T USE IT FOR REVENGING 
+     AT LAST I SPENT 5 DAYS FOR MAKING THIS PROJECT SO PLEASE GIVE ME CREDIT WHEN YOU COPY THIS CODE FAITHFULLY FIYAA FARHAA "
+   ©® FIYA FARHAA (INJECTAA GIRL 🧪) 
 
-
-𝙈𝙔 𝙀𝙈𝘼𝙄𝙇 :-𝙛𝙞𝙮𝙖𝙖𝙞𝙣𝙟𝙚𝙘𝙩𝙖𝙖@𝙥𝙧𝙤𝙩𝙤𝙣𝙢𝙖𝙞𝙡.𝙘𝙤𝙢  """
+ MY EMAIL :-fiyaainjectaa@protonmail.com(Plz don't send spam mail) """
 for letter in string:
   sleep(0.01) 
   sys.stdout.write(letter)
