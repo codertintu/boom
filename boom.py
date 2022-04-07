@@ -72,10 +72,10 @@ print()
 print()
 
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-print('\u001b[32m[1]\u001b[0m SMS BOOM    - SEND UNLIMITED SMS TO VICTIM NUMBER FROM 6+ PROVIDERS'),                  time.sleep(.1)
-print('\u001b[32m[2]\u001b[0m DEVELOPERS DETAILS AND OTHER SOCIAL MEDIAS AND GMAIL'),                              time.sleep(.1)
-print('\u001b[32m[3]\u001b[0m MY WHATSAPP NUMBER'),                                                                   time.sleep(.1)
-print('\u001b[32m[4]\u001b[0m WHATSAPP FAKE OTP SENDER COMING SOON👾'),                                                   time.sleep(.1)                                     
+print('\u001b[32m[1]\u001b[0m SMS BOOM    - SEND UNLIMITED SMS TO VICTIM NUMBER FROM 6+ PROVIDERS'),                      time.sleep(.1)
+print('\u001b[32m[2]\u001b[0m DEVELOPERS DETAILS AND OTHER SOCIAL MEDIAS AND GMAIL'),                                     time.sleep(.1)
+print('\u001b[32m[3]\u001b[0m MY WHATSAPP NUMBER'),                                                                       time.sleep(.1)
+print('\u001b[32m   \u001b[0m WHATSAPP FAKE OTP SENDER COMING SOON👾'),                                                   time.sleep(.1)                                     
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
 				
 
