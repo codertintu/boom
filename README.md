@@ -55,6 +55,6 @@ Tested on Linux ```Android 10```
 
 ### Support Us
 
-<a href="https://wa.me/+3197010286435"><img title="FIYAA" src="https://img.shields.io/badge/Cyber_smile-Contact me-FIYAA/SMILE%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+3197010286435"><img title="FIYAA" src="https://img.shields.io/badge/FIYAA-Contact me-FIYAA/SMILE%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 
  </p>
