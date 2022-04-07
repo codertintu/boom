@@ -43,7 +43,7 @@ Quick installation for Termux Android (ROOT&NONROOT)
   
 
 ### Tools overview
-<img src="https://raw.githubusercontent.com/injectaa/boom/main//Termux.jpg"></img>
+<img src="https://raw.githubusercontent.com/injectaa/boom/main//boom1.jpg"></img>
  non root access for ```Termux Android```
 
 ### boom overview
