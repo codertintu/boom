@@ -28,7 +28,7 @@ Quick installation for Termux Android (ROOT&NONROOT)
      *cd boom
      *python3 boom.py
 ````
-#### boom for Termux by [@fiyaa](https://github.com/R1punk/SARA)
+#### boom for Termux by [@fiyaa](https://github.com/injectaa/boom)
 Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
 
 ### Dependencies
