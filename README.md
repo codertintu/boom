@@ -38,7 +38,6 @@ Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
 - proxy
 - figlet
 - high speed network
--
 - Python3
 - Python3-pip
   
