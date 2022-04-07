@@ -50,8 +50,6 @@ Quick installation for Termux Android (ROOT&NONROOT)
 <img src="https://raw.githubusercontent.com/injectaa/boom/main/Linux.jpg"></img>
 Tested on Linux ```Android 10```
 
-### Output logs
-<img src="https://raw.githubusercontent.com/injectaa/boom/main/Oyp.jpg"></img>
 
 ### Support Us
 <p align="center">
