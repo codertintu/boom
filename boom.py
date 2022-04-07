@@ -57,7 +57,7 @@ print(example_ansi)
 print()
 
 dev = ANSI.background(
-    97) + ANSI.color_text(35) + ANSI.style_text(4) +       "DEVELOPED BY ::  FIYAA INJECTAA & JESUPEFEXX and LOTS OF PEOPLE ON THE EARTH WITH LOVE AND SUPPORT! AND SPECIAL THANKZZ TO REDSPY AND VIJIL BRO  " 
+    97) + ANSI.color_text(35) + ANSI.style_text(4) +  "DEVELOPED BY ::  FIYAA INJECTAA & JESUPEFEXX and LOTS OF PEOPLE ON THE EARTH ! AND SPECIAL THANKZ TO REDSPY AND VIJIL BRO  " 
 print(dev)
 
 print('\u001b[33;1m-------------------------------------------------------------------\u001b[0m'), time.sleep(.3)
