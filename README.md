@@ -10,7 +10,7 @@ User can helpfull:
 - ```main_use``` - for sending unlimited otp to a indian number without limit(only indian number is allowed) 
 - ```providers``` - more than 6+ providers include byjus,flipkart etc etc..... 
 - ```main feature``` - sending speed is higher
-- ```security``` - 90% tool are protected by traceing
+- ```security``` - 90% tool are protected by tracking
 - ```for users``` - use only for education purpose 
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
