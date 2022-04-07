@@ -54,3 +54,7 @@ Tested on Linux ```Android 10```
 <img src="https://raw.githubusercontent.com/injectaa/boom/main/Oyp.jpg"></img>
 
 ### Support Us
+
+<a href="https://wa.me/+3197010286435"><img title="FIYAA" src="https://img.shields.io/badge/Cyber_smile-Contact me-CYBER SMILE/SMILE%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+
+ </p>
