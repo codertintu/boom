@@ -36,7 +36,8 @@ logo = """
 			 
 			           © FIYAA & JESU
 		
-	
+	                                                                         
+	                                                                           """
 		
 class ANSI():
      def background(code):
