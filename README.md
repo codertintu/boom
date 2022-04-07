@@ -43,7 +43,7 @@ Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
   
 
 ### Tools overview
-<img src="https://raw.githubusercontent.com/injectaa/boom/main//.jpg"></img>
+<img src="https://raw.githubusercontent.com/injectaa/boom/main//Termux.jpg"></img>
  non root access for ```Termux Android```
 
 ### boom overview
