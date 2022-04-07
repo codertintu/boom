@@ -61,9 +61,9 @@ dev = ANSI.background(
 print(dev)
 
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.3)
-print('\u001b[32m        ㅤㅤㅤㅤㅤㅤㅤㅤㅤ Thank you jesu ,vedavyasan,mafiya,darwin,adith                                              \u001b[0m'), time.sleep(.3)
-print('\u001b[33;1mOwner(s): @fiyaainjectaa&jesu               Last Update: 8.04.2022\u001b[0m'), time.sleep(.3)
-print('\u001b[31;1mMaintainer(s): @fiyaa                      Telegram: fiyaainjectaa\u001b[0m'), time.sleep(.3)
+print('\u001b[32m        ㅤㅤㅤㅤㅤㅤㅤㅤ          ㅤ Thank you jesu ,vedavyasan,mafiya,darwin,adith                                              \u001b[0m'), time.sleep(.3)
+print('\u001b[33;1mOwner(s): @fiyaainjectaa&jesu             ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                           Last Update: 7.04.2022\u001b[0m'), time.sleep(.3)
+print('\u001b[31;1mMaintainer(s): @fiyaa                   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    b        ㅤㅤ              Telegram: fiyaainjectaa\u001b[0m'), time.sleep(.3)
 
 print()
 
@@ -72,14 +72,14 @@ print()
 print()
 
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
-print('\u001b[32m[1]\u001b[0m SMS BOOM    - Send unlimited otp message to victim mobile number'),                  time.sleep(.1)
+print('\u001b[32m[1]\u001b[0m SMS BOOM    - SEND UNLIMITED SMS TO VICTIM NUMBER FROM 6+ PROVIDERS'),                  time.sleep(.1)
 print('\u001b[32m[2]\u001b[0m DEVELOPERS DETAILS AND OTHER SOCIAL MEDIAS AND GMAIL'),                              time.sleep(.1)
-print('\u001b[32m[3]\u001b[0m whatsApp number'),                                                                   time.sleep(.1)
-print('\u001b[32m[4]\u001b[0m whatsApp otp boom Coming Soon🔥'),                                                   time.sleep(.1)                                     
+print('\u001b[32m[3]\u001b[0m MY WHATSAPP NUMBER'),                                                                   time.sleep(.1)
+print('\u001b[32m[4]\u001b[0m WHATSAPP FAKE OTP SENDER COMING SOON👾'),                                                   time.sleep(.1)                                     
 print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.5)
 				
 
-choice = input('      ᴇɴᴛᴇʀ ᴀɴ ᴏᴘᴛɪᴏɴ : ')
+choice = input('     𝙎𝙀𝙇𝙀𝘾𝙏 𝘼𝙉 𝙊𝙋𝙏𝙄𝙊𝙉 : ')
 
 if choice == "1":
    os.system("python3 boom_main")
@@ -91,4 +91,4 @@ elif choice == "3":
 else:
     print ("invild option try again !")
 
-#  DONT TRY TO REEDIT MY CODE ITS MAYBE TRACABLE AND PANNISHABLE !!!
+# ALL THIS CODE ARE BUILT BY FIYAA SO GIVE CREDIT TO MY PROJECT FOR COPYING!!!
