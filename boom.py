@@ -60,8 +60,8 @@ dev = ANSI.background(
     97) + ANSI.color_text(35) + ANSI.style_text(4) +       "DEVELOPED BY ::  FIYAA INJECTAA & JESUPEFEXX and LOTS OF PEOPLE ON THE EARTH ! AND SPECIAL THANKZ TO REDSPY AND VIJIL BRO  " 
 print(dev)
 
-print('\u001b[33;1m-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.3)
-print('\u001b[32m                           ㅤ Thank you jesu ,vedavyasan,mafiya,darwin,adith                                              \u001b[0m'), time.sleep(.3)
+print('\u001b[33;1m------------------------------------------------------------------------------------------------------------------------------------------------------------\u001b[0m'), time.sleep(.3)
+print('\u001b[32m                           ㅤ           Thank you @jesu ,vedavyasan,mafiya,darwin,adith,el-ruby                                              \u001b[0m'), time.sleep(.3)
 print('\u001b[34;1m       Owner(s): @fiyaainjectaa&jesu                                                         Last Update: 7.04.2022\u001b[0m'), time.sleep(.3)
 print('\u001b[31;1m       Maintainer(s): @fiyaa                                                ㅤㅤ              Telegram: fiyaainjectaa\u001b[0m'), time.sleep(.3)
 
