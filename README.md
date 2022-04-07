@@ -43,19 +43,14 @@ Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
   
 
 ### Tools overview
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/view.jpg"></img>
+<img src="https://raw.githubusercontent.com/injectaa/boom/main//.jpg"></img>
 Need root access for ```Termux Android```
 
-### Ransomware overview
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/ransomware.jpg"></img>
+### boom overview
+<img src="https://raw.githubusercontent.com/injectaa/boom/main/.jpg"></img>
 Tested on devices ```Android 10```
 
 ### Output logs
 <img src="https://raw.githubusercontent.com/injectaa/boom/main/Oyp.jpg"></img>
 
 ### Support Us
-Facebook [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
-Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
-
-### Credit's
-Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
