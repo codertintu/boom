@@ -51,7 +51,7 @@ Need root access for ```Termux Android```
 Tested on devices ```Android 10```
 
 ### Output logs
-<img src="https://raw.githubusercontent.com/injectaa/boom/main/output.jpg"></img>
+<img src="https://raw.githubusercontent.com/injectaa/boom/main/Otp.jpg"></img>
 
 ### Support Us
 Facebook [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
