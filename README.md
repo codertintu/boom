@@ -1,5 +1,5 @@
 <img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BOOM-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="BOOM" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/overview.jpg">
+<img src="https://raw.githubusercontent.com/injectaa/boom/main/boom1.jpg">
 SARA - Simple Android Ransomware Attack
 
 ### Disclaimer
