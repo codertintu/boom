@@ -44,11 +44,11 @@ Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
 
 ### Tools overview
 <img src="https://raw.githubusercontent.com/injectaa/boom/main//.jpg"></img>
-Need root access for ```Termux Android```
+ non root access for ```Termux Android```
 
 ### boom overview
-<img src="https://raw.githubusercontent.com/injectaa/boom/main/.jpg"></img>
-Tested on devices ```Android 10```
+<img src="https://raw.githubusercontent.com/injectaa/boom/main/Linux.jpg"></img>
+Tested on Linux ```Android 10```
 
 ### Output logs
 <img src="https://raw.githubusercontent.com/injectaa/boom/main/Oyp.jpg"></img>
