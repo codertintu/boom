@@ -1,41 +1,41 @@
 <img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BOOM-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="BOOM" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
 <img src="https://raw.githubusercontent.com/injectaa/boom/main/boom1.jpg">
-SARA - Simple Android Ransomware Attack
+BOOM-Simple unlimited otp sender with 6+ provider's
 
 ### Disclaimer
 The author is not responsible for any issues or damage caused by this program.
 
 ### Features
-User can customize:
-- ```app_icon``` - custom icon application
-- ```app_name``` - custom name application
-- ```alert_title``` - custom alert title
-- ```alert_desc``` - custom alert description
-- ```key_pass``` - custom key for unlock devices
+User can helpfull:
+- ```main_use``` - for sending unlimited otp to a indian number without limit(only indian number is allowed) 
+- ```providers``` - more than 6+ providers include byjus,flipkart etc etc..... 
+- ```main feature``` - sending speed is higher
+- ```security``` - 90% tool are protected by traceing
+- ```for users``` - use only for education purpose 
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+git clone https://github.com/injectaa/boom && cd boom && sudo python3 boom.py
 ```
 
-Quick installation for Termux Android (ROOT)
+Quick installation for Termux Android (ROOT&NONROOT)
 ````bash
-apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
+apt-get install git python3 python -y && python3 -m pip install Pillow && git clone https://github.com/injectaa/boom && cd boom && bash requirment.sh && python3 boom.py
 ````
-#### Sara for Termux by [@R1punk](https://github.com/R1punk/SARA)
+#### boom for Termux by [@fiyaa](https://github.com/R1punk/SARA)
 Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
 
 ### Dependencies
-- Java
-  - Openjdk 11
-- Aapt
-- Apktool
-  - Apktool 2.4.0
-- Zipalign
-- Imagemagick
+- python
+- python 2
+- vpn
+- proxy
+- figlet
+- high speed network
+-
 - Python3
 - Python3-pip
-  - Pillow
+  
 
 ### Tools overview
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/view.jpg"></img>
