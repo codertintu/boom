@@ -516,7 +516,7 @@ colors = [
 color = random.choice(colors)
 
 t = input("ENTER VICTEMS PHONE NUMBER: +91 ")
-m = int(input("ENTER THE NUMBER OF SPERMS : "))
+m = int(input("ENTER THE NUMBER OF OTP : "))
 
 target = t
 max = 10**500
@@ -536,8 +536,8 @@ elif msgs > max:
 elif len(target) == 10 and msgs <= max:
     infinite(target, color, msgs)
     print(color)
-    print("Successfully spermed !!!...")
+    print("Successfully sended !!!...")
 else:
     print(
-        "Please Enter the correct Phone Number & SMS count or contact CYBER CRACKER for queries (instagram: @cybercrackerofficial)"
+        "Please Enter the correct Phone Number & SMS count or contact injectaa for queries (instagram: @injectaa)"
     )
