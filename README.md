@@ -24,7 +24,7 @@ Quick installation for Termux Android (ROOT&NONROOT)
      *pkg install git
      *pkg install python
      *pkg install python3
-     *git clone https://github.com/injectaa/boom
+     *git clone https://github.com/codertintu/boom
      *cd boom
      *python3 boom.py
 ````
